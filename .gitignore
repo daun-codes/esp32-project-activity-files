@@ -1,0 +1,28 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# IDE Configuration & Workspace Settings
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.workspace
+*.suo
+*.user
+
+# PlatformIO Build Files 
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino IDE Build Files
+build/
+*.elf
+*.bin
+*.hex
+
+# Log & Temporary Files
+*.log
+*.tmp
