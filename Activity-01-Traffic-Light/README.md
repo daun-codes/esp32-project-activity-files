@@ -16,7 +16,7 @@ This activity will guide you through creating a simple traffic light system usin
 - ESP32 development board
 - Jumper wires
 - 3 LEDs (red, yellow, green)
-- 3 220Ω resistors
+- 3 330Ω resistors
 
 
 ## Screenshot 
