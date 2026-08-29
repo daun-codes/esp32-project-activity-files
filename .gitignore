@@ -8,6 +8,7 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 .idea/
+*.code-workspace
 *.workspace
 *.suo
 *.user
