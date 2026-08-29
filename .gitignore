@@ -5,7 +5,7 @@ Thumbs.db
 *.swp
 
 # IDE Configuration & Workspace Settings
-.vscode/*
+.vscode
 !.vscode/extensions.json
 .idea/
 *.code-workspace
@@ -27,3 +27,7 @@ build/
 # Log & Temporary Files
 *.log
 *.tmp
+
+# Environment Directory
+
+test-environment/
