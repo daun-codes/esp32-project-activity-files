@@ -1,4 +1,4 @@
-#include <arduino.h>
+#include <Arduino.h>
 
 
 constexpr uint8_t YELLOW_LED_PIN = 19;
