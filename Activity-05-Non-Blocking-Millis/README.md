@@ -16,4 +16,4 @@ This activity has two leds that has different way of blinking. The blue led lits
 
 ## ScreenShot
 
-- ![PWM Brightness Simulation](../img/Activity-05.png)
+- ![Non-Blocking Timing Simulation](../img/Activity-05.png)
