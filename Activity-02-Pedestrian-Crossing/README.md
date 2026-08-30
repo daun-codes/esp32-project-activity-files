@@ -14,4 +14,4 @@ This activity has two led light that simulate real world traffic light system wi
 
 ## Screenshot
 
-![Traffic Light Simulation](../img/Activity-02.png)
+![Pedestrian Crossing Simulation](../img/Activity-02.png)
