@@ -2,7 +2,7 @@
 
 ## Description
 
-This activity has two led light that simulate real world traffic light system with push button for pedestria crossing. Whenever the user would hit the button, the traffic light will change to red to signal the vehicles to stop but giving them at least one second to get ready before it would turn to red light.
+This activity has two led light that simulate real world traffic light system with push button for pedestrian crossing. Whenever the user would hit the button, the traffic light will change to red to signal the vehicles to stop moving and giving them at least one second to get ready before it would turn to red light.
 
 
 ## Materials Used
