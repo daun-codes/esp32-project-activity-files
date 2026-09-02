@@ -13,4 +13,4 @@ In this activity, we'll use two timers to create a dual timer interrupt. The fir
 
 ## Screenshot
 
-[![Dual Timer Interrupt Simulation](../img/Activity-08.png)]
+![Dual Timer Interrupt Simulation](../img/Activity-08.png)
