@@ -1,15 +1,14 @@
 # Activity 1 - Traffic Light System
 
 ## Description
-This activity will guide you through creating a simple traffic light system using an ESP32. The system will control three LEDs (red, yellow, and green) to simulate a traffic light.
 
+This activity will guide you through creating a simple traffic light system using an ESP32. The system will control three LEDs (red, yellow, and green) to simulate a traffic light.
 
 ## Skills
 
 - GPIO control
 - Timing and delays
 - Basic embedded systems programming
-
 
 ## Materials Needed
 
@@ -18,7 +17,6 @@ This activity will guide you through creating a simple traffic light system usin
 - 3 LEDs (red, yellow, green)
 - 3 330Ω resistors
 
+## Screenshot
 
-## Screenshot 
-
-![Traffic Light Simulation](../img/Activity-01.png)
+![Traffic Light Simulation](../../img/Activity-01.png)
