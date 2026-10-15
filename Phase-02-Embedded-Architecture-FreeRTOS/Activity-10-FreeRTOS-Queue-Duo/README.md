@@ -11,4 +11,4 @@ that can get the updated data before processing it without blocking the main loo
 
 ## Screenshot
 
-![FreeRTOS Queue Duo Simulation](../img/Activity-10.png)
+![FreeRTOS Queue Duo Simulation](../../img/Activity-10.png)

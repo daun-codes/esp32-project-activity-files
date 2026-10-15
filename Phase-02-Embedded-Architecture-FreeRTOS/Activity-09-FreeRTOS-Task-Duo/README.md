@@ -10,4 +10,4 @@ In this activity, we are going to use FreeRTOS to create a dual task system to p
 
 ## Screenshot
 
-![FreeRTOS Task Duo Simulation](../img/Activity-09.png)
+![FreeRTOS Task Duo Simulation](../../img/Activity-09.png)

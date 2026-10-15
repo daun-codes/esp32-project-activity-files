@@ -7,8 +7,11 @@ In this activity, we are going to use the Semaphore to give signal and wake the 
 ## Material
 
 - ESP32 Development Board
-- PIR Motion Sensor
+- Push Button
+- LED
+- 220 ohm Resistor
+- Jumper Wires
 
 ## Screenshot
 
-![FreeRTOS Semaphore Simulation](../img/Activity-12.png)
+![FreeRTOS Semaphore Simulation](../../img/Activity-12.png)

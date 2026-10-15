@@ -10,4 +10,4 @@ In this activity, we will learn how to use a FreeRTOS mutex to synchronize acces
 
 ## Screenshot
 
-![FreeRTOS Mutex Simulation](../img/Activity-11.png)
+![FreeRTOS Mutex Simulation](../../img/Activity-11.png)
